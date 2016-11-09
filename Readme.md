@@ -1,7 +1,7 @@
 ﻿# Личный проект «Нёрдс»
 
 * Студент: [Екатерина Тарасенко](https://up.htmlacademy.ru/htmlcss/15/user/249549).
-* Наставник: [Юлька Долгун](https://htmlacademy.ru/profile/id42333).
+* Наставник: [Юлька 🐯🐯 Долгун](https://htmlacademy.ru/profile/id42333).
 
 ---
 
